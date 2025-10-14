@@ -10,13 +10,6 @@ Please contact us!
 
 Thank you!
 
-- Afonso Saraiva up202304461@up.pt
-- Ana Luís Carvalho up202307709@up.pt
-- Guilherme Oliveira up202304717@up.pt
-- Henrique Gonçalves up202307344@up.pt
-- Rodrigo Rocha up202305891@up.pt
-
-
 ## Business Modelling 
 Business modeling in software development involves defining the product's vision, understanding market needs, aligning features with user expectations, and setting the groundwork for strategic planning and execution.
 
